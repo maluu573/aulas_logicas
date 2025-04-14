@@ -1,0 +1,20 @@
+const prompt = require('prompt-sync')()
+
+let mes = prompt("digite o nome de um mes:").toLowerCase()
+
+switch(mes){
+   case "janeiro":
+   case "fevereiro":
+   case "março":
+   case "abril":
+   case "maio":
+   case "junho":
+   case "julho":
+   case "agosto":
+   case "setembro":
+    case "outubro":
+        case "novembro":
+            case "dezembro":
+
+}
+
